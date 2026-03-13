@@ -4,7 +4,7 @@ import streamlit as st
 # =============================
 # CONFIG
 # =============================
-API_BASE =  "MOVIE_API_URL" or "http://127.0.0.1:8000" 
+API_BASE =  "https://movie-backend-wqs0.onrender.com" or "http://127.0.0.1:8000" 
 TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w500"
 # High-quality fallback image for missing posters
 FALLBACK_IMG = "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=500&auto=format&fit=crop"
